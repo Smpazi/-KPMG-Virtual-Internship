@@ -3,7 +3,7 @@ This repository includes the answers to the three tasks that must be completed d
 
 ## Overview
 Sprocket Central Pty Ltd , a medium size bikes & cycling accessories organisation, has approached Tony Smith (Partner) in KPMG’s Lighthouse & Innovation Team. Sprocket Central Pty Ltd is keen to learn more about KPMG’s expertise in its Analytics, Information & Modelling team. The project is mainly divided into three tasks:
-
+* Source: https://www.theforage.com/virtual-internships/m7W4GMqeT3bh9Nb2c?ref=7m99dkPfXTbA3Y2Fb
 ## Task 1: Data Quality Assessment
 Assessment of data quality and completeness in preparation for analysis
 * The client provided KPMG with 3 datasets:
